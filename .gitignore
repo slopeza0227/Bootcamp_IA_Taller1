@@ -1,0 +1,7 @@
+# Created by virtualenv automatically
+.mlp_env
+mlp_env/
+.Data
+Data/
+
+Tarea_PlantNet.ipynb
